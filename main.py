@@ -3,12 +3,13 @@ from flask import request
 from flask import render_template
 
 import users as db
+import dbMysql as db2
 # 123 WEW
 app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    user_list = db.select_user()
+    user_list = db2.select_user()
     return render_template("index.html", user_list=user_list)
     #return render_template("index.html")
 
