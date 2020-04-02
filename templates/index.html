@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+
+
+
+    <title></title>
+</head>
+<body>
+<table >
+                    <colgroup>
+                        <col width="150">
+                        <col width="200">
+                        <col>
+                    </colgroup>
+                    <thead>
+                    <tr>
+                        <th>id</th>
+                        <th>name</th>
+                        <th>mail</th>
+                        <th>age</th>
+
+                    </tr>
+                    </thead>
+
+                    {% for users in user_list %}
+                    <tr>
+                        <td>{{ users[0] }}</td>
+                        <td>{{ users[1] }}</td>
+                        <td>{{ users[2] }}</td>
+                        <td>{{ users[3] }}</td>
+                    </tr>
+                    {% endfor %}
+                </table>
+
+
+
+</body>
+</html>

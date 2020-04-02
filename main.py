@@ -1,12 +1,19 @@
 from flask import Flask
 from flask import request
+from flask import render_template
+
 import user as db
 
 app = Flask(__name__)
 
-
 @app.route("/")
 def hello():
+    user_list = db.select_user()
+    return render_template("index.html", user_list=user_list)
+    #return render_template("index.html")
+
+@app.route("/select")
+def select():
 
    return str(db.select_user())
 
