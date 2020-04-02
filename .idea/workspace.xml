@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e00b9553-5eb5-47c6-91fa-cb754e148b83" name="Default Changelist" comment="" />
+    <list default="true" id="e00b9553-5eb5-47c6-91fa-cb754e148b83" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +31,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -42,21 +44,53 @@
       <option name="presentableId" value="Default" />
       <updated>1585833878770</updated>
     </task>
+    <task id="LOCAL-00001" summary="111">
+      <created>1585835239885</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585835239885</updated>
+    </task>
+    <task id="LOCAL-00002" summary="111">
+      <created>1585835254752</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585835254752</updated>
+    </task>
+    <task id="LOCAL-00003" summary="111">
+      <created>1585835260079</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585835260079</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
   </component>
   <component name="WindowStateProjectService">
     <state x="327" y="126" key="#Notifications" timestamp="1585835068459">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="327" y="126" key="#Notifications/0.23.1440.832@0.23.1440.832" timestamp="1585835068459" />
-    <state x="360" y="59" key="CommitChangelistDialog2" timestamp="1585835254631">
+    <state x="864" y="206" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1585835493363">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="864" y="206" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1440.900@0.0.1440.900" timestamp="1585835493363" />
+    <state x="540" y="198" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.23.1440.831@0.23.1440.831" timestamp="1585835363221" />
+    <state x="360" y="59" key="CommitChangelistDialog2" timestamp="1585835259948">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="360" y="59" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1585835254631" />
-    <state x="218" y="115" key="SettingsEditor" timestamp="1585835139054">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state x="360" y="59" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1585835259948" />
+    <state x="218" y="100" key="SettingsEditor" timestamp="1585835494832">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="218" y="115" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1585835139054" />
+    <state x="218" y="100" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1585835494832" />
+    <state x="218" y="115" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1585835374934" />
     <state x="218" y="115" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1585835009446" />
     <state x="327" y="208" key="Vcs.Push.Dialog.v2" timestamp="1585834176500">
       <screen x="0" y="23" width="1440" height="832" />
