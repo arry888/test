@@ -1,11 +1,11 @@
 import requests
 
 r = requests.get('https://www.baidu.com')
-print(r.status_code)
-# print(r.headers)
+print(r.status_code)  # 状态码
+# print(r.headers) # header
 # for k in r.headers:
 #     print(r.headers[k])
-# print(r.headers['content-type'])
+print(r.headers)  # header字段
 # print(r.text)
 
 
