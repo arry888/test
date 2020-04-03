@@ -2,10 +2,121 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e00b9553-5eb5-47c6-91fa-cb754e148b83" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/css/layui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/css/layui.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/css/modules/code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/css/modules/layer/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/css/modules/layer/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/font/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/images/face/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/lay/modules/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/lay/modules/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/lay/modules/colorpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/lay/modules/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/lay/modules/flow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/lay/modules/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/lay/modules/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/lay/modules/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/lay/modules/layedit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/lay/modules/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/lay/modules/laypage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/lay/modules/laytpl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/lay/modules/mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/lay/modules/rate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/lay/modules/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/lay/modules/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/lay/modules/transfer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/lay/modules/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/lay/modules/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/lay/modules/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/layui.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/layui/layui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/文档与示例/GitHub.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/文档与示例/Gitee 码云.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/文档与示例/在线示例.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/文档与示例/快速上手.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layui-v2.5.6/更新日志.url" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/py2.py" beforeDir="false" afterPath="$PROJECT_DIR$/py2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
@@ -37,6 +148,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="dbMysql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -149,12 +265,20 @@
       <option name="project" value="LOCAL" />
       <updated>1585835504810</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2020/4/3">
+      <created>1585843818448</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585843818448</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111" />
-    <option name="LAST_COMMIT_MESSAGE" value="111" />
+    <MESSAGE value="2020/4/3" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020/4/3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="327" y="126" key="#Notifications" timestamp="1585835068459">
@@ -166,27 +290,28 @@
     </state>
     <state x="864" y="206" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1440.900@0.0.1440.900" timestamp="1585835493363" />
     <state x="540" y="198" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.23.1440.831@0.23.1440.831" timestamp="1585835363221" />
-    <state x="360" y="39" key="CommitChangelistDialog2" timestamp="1585835504691">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="360" y="57" key="CommitChangelistDialog2" timestamp="1585900288897">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="360" y="39" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585835504691" />
+    <state x="360" y="57" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1585900288897" />
     <state x="360" y="59" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1585835259948" />
-    <state width="1102" height="200" key="GridCell.Tab.0.bottom" timestamp="1585843735285">
+    <state width="1102" height="200" key="GridCell.Tab.0.bottom" timestamp="1585898708727">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state width="1102" height="200" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1585843735285" />
-    <state width="1102" height="200" key="GridCell.Tab.0.center" timestamp="1585843735284">
+    <state width="1102" height="200" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1585898708727" />
+    <state width="1102" height="200" key="GridCell.Tab.0.center" timestamp="1585898708726">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state width="1102" height="200" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1585843735284" />
-    <state width="1102" height="200" key="GridCell.Tab.0.left" timestamp="1585843735284">
+    <state width="1102" height="200" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1585898708726" />
+    <state width="1102" height="200" key="GridCell.Tab.0.left" timestamp="1585898708726">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state width="1102" height="200" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1585843735284" />
-    <state width="1102" height="200" key="GridCell.Tab.0.right" timestamp="1585843735285">
+    <state width="1102" height="200" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1585898708726" />
+    <state width="1102" height="200" key="GridCell.Tab.0.right" timestamp="1585898708727">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state width="1102" height="200" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1585843735285" />
+    <state width="1102" height="200" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1585898708727" />
     <state x="218" y="115" key="SettingsEditor" timestamp="1585839868677">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
@@ -194,10 +319,11 @@
     <state x="218" y="115" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1585839868677" />
     <state x="218" y="115" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1585835374934" />
     <state x="218" y="115" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1585835009446" />
-    <state x="327" y="200" key="Vcs.Push.Dialog.v2" timestamp="1585835508582">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="327" y="207" key="Vcs.Push.Dialog.v2" timestamp="1585843823037">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="327" y="200" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1585835508582" />
+    <state x="327" y="207" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1585843823037" />
     <state x="327" y="208" key="Vcs.Push.Dialog.v2/0.23.1440.832@0.23.1440.832" timestamp="1585834176500" />
     <state x="406" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1585885123863">
       <screen x="0" y="23" width="1440" height="838" />
